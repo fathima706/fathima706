@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Fathima%20Rushda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55" />
+</p>
 <h1 align="center">Hi 👋, I'm Fathima Rushda</h1>
 <h3 align="center">Aspiring Data Analyst | Final Year Computer Science Engineering Student</h3>
 
@@ -19,11 +22,19 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,java,git,github,vscode,html,css" />
+<br><br>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
-
 ---
+## 🏆 Certifications
+
+- Deloitte Data Analytics Job Simulation
+- IBM SkillsBuild - AI & Cloud Computing
+- LinkedIn Learning - AI Literacy
 
 ## 📈 GitHub Stats
 
@@ -32,6 +43,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fathima706&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathima706&layout=compact&theme=tokyonight)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathima%20Rushda-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/fathimarush)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL@gmail.com)
 
 ---
 
