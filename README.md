@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Fathima%20Rushda&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55" />
 </p>
 <h1 align="center">Hi 👋, I'm Fathima Rushda</h1>
-<h3 align="center">Aspiring Data Analyst | Final Year Computer Science Engineering Student</h3>
+<h3 align="center">Aspiring Data Scientist| Final Year Computer Science Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Always+Learning+New+Things" />
@@ -13,7 +13,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Final Year B.E. in Computer Science & Engineering
-- 📊 Aspiring Data Analyst
+- 📊 Aspiring Data Scientist
 - 🌱 Currently learning **Python, SQL, Power BI, Tableau**
 - 💡 Interested in Data Analytics, Machine Learning, and Business Intelligence
 - 📫 Reach me on LinkedIn
